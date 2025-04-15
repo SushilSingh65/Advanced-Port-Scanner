@@ -23,3 +23,10 @@ To use this tool, you need Python installed on your system. This tool also requi
 
    ```bash
    pip install -r requirements.txt
+
+## 🖼️ Demo Output
+
+Below is a screenshot of the tool scanning ports:
+
+![Port Scanner Output](screenshots/output.png)
+
