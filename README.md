@@ -28,5 +28,5 @@ To use this tool, you need Python installed on your system. This tool also requi
 
 Below is a screenshot of the tool scanning ports:
 
-![Port Scanner Output](screenshots/output.png)
+![Port Scanner Output](screenshots/output.PNG)
 
