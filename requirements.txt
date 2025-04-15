@@ -1,0 +1,11 @@
+# No external libraries required
+# Works with Python 3.7+
+# Make sure these built-in modules are available:
+# - socket
+# - argparse
+# - concurrent.futures
+# - threading
+# - colorama
+
+# To run:
+# python port_scanner.py
